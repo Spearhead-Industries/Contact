@@ -1,0 +1,26 @@
+Email: contact@spearhead.industries
+Discord: https://discord.gg/gr4MsrdF4C
+
+
+PGP Public Key:
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User-ID:	Spearhead Industries <contact@spearhead.industries>
+Comment: Created:	29/06/2023 03:06
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs
+Comment: Fingerprint:	28625A7438817EACC7233C7B6B0485DF02A78907
+
+
+mDMEZJznGRYJKwYBBAHaRw8BAQdA/BiMCY+MQXLhMmgvvbEiO/88viSYaoA7NzCc
+XK4rx4+0M1NwZWFyaGVhZCBJbmR1c3RyaWVzIDxjb250YWN0QHNwZWFyaGVhZC5p
+bmR1c3RyaWVzPoiUBBMWCgA8FiEEKGJadDiBfqzHIzx7awSF3wKniQcFAmSc5xkC
+GwMFCwkIBwIDIgIBBhUKCQgLAgQWAgMBAh4HAheAAAoJEGsEhd8Cp4kHHZMBAOh4
+24cUiKqk/AULoig9Bs73y4jUcWk9yAZfrvoTESynAP9gAkjzjEhDKfWWrTu2bNeN
+BqVZrxE2u4TyLEB5ttt/Brg4BGSc5xkSCisGAQQBl1UBBQEBB0A2q9Bx3uykvYMR
+3WhRkRkhqlr9t61jFsYBQlE2BflrLAMBCAeIeAQYFgoAIBYhBChiWnQ4gX6sxyM8
+e2sEhd8Cp4kHBQJknOcZAhsMAAoJEGsEhd8Cp4kHQikA/2kGzlC2dc7fZtbisMB2
+ce6HtyElCsxAiz20DaH+uPMuAQCNZp5HlQvNedcaS//6OzV3Pge+6H1Zk93R+MKE
+JnupDw==
+=kZw4
+-----END PGP PUBLIC KEY BLOCK-----
